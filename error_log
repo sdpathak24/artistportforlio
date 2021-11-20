@@ -1,0 +1,41 @@
+[10-Nov-2021 09:56:39 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/shwallama.com/submit_yt.php on line 3
+[10-Nov-2021 09:56:39 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/shwallama.com/submit_yt.php on line 5
+[10-Nov-2021 10:31:57 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/shwallama.com/submit_yt.php on line 3
+[10-Nov-2021 10:31:57 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/shwallama.com/submit_yt.php on line 5
+[10-Nov-2021 12:03:51 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/shwallama.com/submit_yt.php on line 3
+[10-Nov-2021 12:03:51 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/shwallama.com/submit_yt.php on line 5
+[13-Nov-2021 06:57:31 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 3
+[13-Nov-2021 06:57:31 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 5
+[13-Nov-2021 07:03:10 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_newsletter'@'localhost' (using password: NO) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 07:03:10 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 07:23:28 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 3
+[13-Nov-2021 07:23:28 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 07:26:50 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 3
+[13-Nov-2021 07:26:50 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 07:55:28 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id17722968_newsletter_shwalla'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 3
+[13-Nov-2021 07:55:28 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:29:56 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:29:56 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:32:15 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:32:15 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:36:31 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:36:31 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:53:37 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:53:37 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:54:17 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: NO) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:54:17 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:56:29 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:56:29 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 09:58:28 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'ssdrsserver3.hostinginterface.eu' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 09:58:28 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 10:01:18 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 10:01:18 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[13-Nov-2021 17:44:04 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'baeafweb_Newsletter'@'localhost' (using password: YES) in /home/baeafweb/public_html/submit_yt.php on line 4
+[13-Nov-2021 17:44:04 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/baeafweb/public_html/submit_yt.php on line 6
+[15-Nov-2021 05:12:11 Europe/London] PHP Notice:  Undefined variable: typebox in /home/baeafweb/public_html/submit_yt.php on line 11
+[15-Nov-2021 05:12:11 Europe/London] PHP Notice:  Undefined variable: sender in /home/baeafweb/public_html/submit_yt.php on line 11
+[15-Nov-2021 05:12:11 Europe/London] PHP Notice:  Undefined variable: message in /home/baeafweb/public_html/submit_yt.php on line 11
+[15-Nov-2021 05:14:01 Europe/London] PHP Notice:  Undefined variable: message in /home/baeafweb/public_html/submit_yt.php on line 12
+[15-Nov-2021 05:14:01 Europe/London] PHP Warning:  mail() expects at least 3 parameters, 1 given in /home/baeafweb/public_html/submit_yt.php on line 12
+[15-Nov-2021 05:18:55 Europe/London] PHP Warning:  Use of undefined constant success - assumed 'success' (this will throw an Error in a future version of PHP) in /home/baeafweb/public_html/submit_yt.php on line 12
+[15-Nov-2021 06:20:05 Europe/London] PHP Notice:  Undefined variable: typebox in /home/baeafweb/public_html/submit_yt.php on line 21
